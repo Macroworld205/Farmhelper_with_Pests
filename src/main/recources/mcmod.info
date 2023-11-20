@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "Farmhelper",
+    "name": "Farmhelper",
+    "description": "Hypixel Skyblock QOL focused mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "Macroworld"
+    ],
+    "credits": "Macroworld",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
